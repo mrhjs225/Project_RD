@@ -1,0 +1,1 @@
+﻿Personal project for Android 2D game application

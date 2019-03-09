@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 5d1ed63f1431ae04ca3dbe5495dec7af
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Die
+    21300002: Monster_Die_0
+    21300004: Monster_Die_1
+    21300006: Monster_Die_2
+    21300008: Monster_Die_3
+    21300010: Monster_Die_4
+    21300012: Monster_Die_5
+    21300014: Monster_Die_6
+    21300016: Monster_Die_7
+    21300018: Monster_Die_8
+    21300020: Monster_Die_9
+    21300022: Monster_Die_10
+    21300024: Monster_Die_11
+    21300026: Monster_Die_12
+    21300028: Monster_Die_13
+    21300030: Monster_Die_14
+    21300032: Monster_Die_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_Die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1144
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1144
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_3
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1144
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 764
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 764
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_7
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 764
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 384
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 384
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_11
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 384
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 4
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 4
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Die_15
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 4
+        width: 329
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

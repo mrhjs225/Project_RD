@@ -1,0 +1,37 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class FireControl : MonoBehaviour {
+	
+	private GameObject mArcher;
+	private MonsterControl mMonster;
+	
+	public void Shoot(MonsterControl monster)
+	{
+		mMonster = monster;
+		// 계층 뷰(Hierachy View)에서 Archer 게임오브젝트 Find
+		mArcher = GameObject.Find("Archer").gameObject;
+		
+		Vector2 randomPos = Random.insideUnitCircle * .3f;
+		
+		iTween.MoveTo(gameObject,iTween.Hash("position", mArcher.transform.position + new Vector3(randomPos.x, 1.5f + randomPos.y, 0), 
+		                                     "easetype", iTween.EaseType.easeOutCubic, "time", 0.5f));
+	}
+	
+	void OnTriggerEnter(Collider other)
+	{
+		if(other.name == "Archer")
+		{
+			int damage = mMonster.mAttack;
+			// mArcher 게임오브젝트에 있는 모든 컴포넌트에 있는 함수 중 Hit라는 함수를 호출
+			ArrayList param = new ArrayList();
+			
+			param.Add(damage);
+			param.Add(transform.position);
+			
+			mArcher.SendMessage("Hit", param);
+
+			Destroy(gameObject, 0.07f);	
+		}
+	}
+}

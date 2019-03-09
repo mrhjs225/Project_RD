@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 3cbc0b0efe53e324481f912c35d810b9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_Attack
+    21300002: Monster_Attack_0
+    21300004: Monster_Attack_1
+    21300006: Monster_Attack_2
+    21300008: Monster_Attack_3
+    21300010: Monster_Attack_4
+    21300012: Monster_Attack_5
+    21300014: Monster_Attack_6
+    21300016: Monster_Attack_7
+    21300018: Monster_Attack_8
+    21300020: Monster_Attack_9
+    21300022: Monster_Attack_10
+    21300024: Monster_Attack_11
+    21300026: Monster_Attack_12
+    21300028: Monster_Attack_13
+    21300030: Monster_Attack_14
+    21300032: Monster_Attack_15
+    21300034: Monster_Attack_16
+    21300036: Monster_Attack_17
+    21300038: Monster_Attack_18
+    21300040: Monster_Attack_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monster_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1144
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1144
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1144
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1144
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 774
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 774
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 774
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 774
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 404
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 404
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 404
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 404
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 34
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 34
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 34
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 34
+        width: 300
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

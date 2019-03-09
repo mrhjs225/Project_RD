@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Script\ArcherControl.cs" Line="161" Column="26" />
+      <File FileName="Assets\Script\ArrowControl.cs" Line="31" Column="4" />
+      <File FileName="Assets\Script\AutoDestructShuriken.cs" Line="18" Column="35" />
+      <File FileName="Assets\Script\AutoSound.cs" Line="13" Column="36" />
+      <File FileName="Assets\Script\BackgroundControl.cs" Line="20" Column="21" />
+      <File FileName="Assets\Script\FireControl.cs" Line="35" Column="32" />
+      <File FileName="Assets\Script\GameManager.cs" Line="197" Column="42" />
+      <File FileName="..\New Unity Project 5\Assets\Script\GameManager.cs" Line="151" Column="42" />
+      <File FileName="Assets\Script\HpControl.cs" Line="44" Column="3" />
+      <File FileName="Assets\Script\HudText.cs" Line="25" Column="24" />
+      <File FileName="Assets\Script\LayerSort.cs" Line="20" Column="1" />
+      <File FileName="Assets\Script\ResultPopup.cs" Line="66" Column="21" />
+      <File FileName="Assets\Script\MonsterControl.cs" Line="117" Column="32" />
+      <File FileName="Assets\Script\MouseEventCatcher.cs" Line="17" Column="1" />
+      <File FileName="Assets\Script\RotateSimple.cs" Line="14" Column="2" />
+      <File FileName="Assets\Script\TextOutline.cs" Line="82" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

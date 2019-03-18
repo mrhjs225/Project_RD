@@ -56,7 +56,7 @@ public class ArcherControl : MonoBehaviour {
 		mForegrounds = component[1];
 
 		// 자식(child) 게임 오브젝트 중 spot 이라는 이름의 오브젝트를 찾아 transform 컴포넌트의 레퍼런스를 반환합니다.
-		mAttackSpot = transform.FindChild("spot");
+		mAttackSpot = transform.Find("spot");
 	}
 
 	// Update함수는 매 프레임 호출 됩니다.

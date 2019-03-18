@@ -1085,6 +1085,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1622431267}
+  - component: {fileID: 1622431268}
   m_Layer: 0
   m_Name: Archer
   m_TagString: Untagged
@@ -1108,6 +1109,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1622431268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1622431266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8be6c37f916cf747bc675820f594211, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mOrinHp: 2000
+  mHp: 0
+  mOrinAttack: 200
+  mAttack: 0
+  mAttackSpeed: 1.2
+  mArrowPrefab: {fileID: 0}
+  mStatus: 0
 --- !u!1 &2021571321
 GameObject:
   m_ObjectHideFlags: 0
@@ -1154,7 +1174,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 41d0a2e36cc0da145ae2838f6909cb73, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
